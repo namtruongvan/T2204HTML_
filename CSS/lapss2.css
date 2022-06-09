@@ -1,0 +1,20 @@
+p{
+
+    pont-size: 14px;
+    text-transform : capitalize;
+    border-bottom:2px solid #E85D07;
+    text-align : left ;
+    line-height : 18px;
+}
+span{
+    text-align: right;
+    margin-left: 300px;
+}
+p2{
+    line-height : 12px;
+    width:12px
+}
+h2{
+color: red;
+
+}
