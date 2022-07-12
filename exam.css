@@ -1,0 +1,31 @@
+.make{
+    width:  220px;
+    height: 50px;
+    background-color: red;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.active1{
+    width: 500px;
+    height: 500px;
+
+    border-radius: 25px;
+    border: 2px;
+    padding: 20px;
+    margin: auto;
+}
+.name{
+    display: grid;
+    margin-top: 20px;
+
+
+}
+.numcvv{
+    display:flex;
+    margin-top: 20px;
+}
+.exp {
+    display: grid;
+    margin-top: 20px;
+}
+
